@@ -12,7 +12,7 @@ Este es mi CV digital y portafolio profesional como **Multiplatform Application 
 ## 🎯 Demo
 
 > Revisa mi CV digital publicado con GitHub Pages:
-📍 https://borizsam.github.io/portafolio-devops/
+📍 https://borizsam.github.io/mi-portafolio/
 
 ---
 
