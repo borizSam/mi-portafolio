@@ -1,44 +1,36 @@
-# vCard - Personal portfolio
+# Portafolio DevOps - Boris Huarachi
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/borizSam/portafolio-devops)
+![GitHub stars](https://img.shields.io/github/stars/borizSam/portafolio-devops?style=social)
+![GitHub forks](https://img.shields.io/github/forks/borizSam/portafolio-devops?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boris%20Huarachi-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/boris-ivan-huarachi-perez-859638219/)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Este es mi CV digital y portafolio profesional como **Multiplatform Application Developer/DevOps**, creado con HTML, CSS y un poco de JavaScript. Es totalmente responsivo y puedes visualizarlo en escritorio o móvil.
 
-## Demo
+---
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## 🎯 Demo
 
-## Prerequisites
+> Revisa mi CV digital publicado con GitHub Pages:
+📍 https://borizsam.github.io/portafolio-devops/
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 📌 Tecnologías utilizadas
 
-## Installing vCard
+- HTML5
+- CSS3
+- Ionicons
+- Diseño responsivo (sin frameworks)
+- Integración con GitHub Pages
 
-To install **vCard**, follow these steps:
+---
 
-Linux and macOS:
+## 🧰 Cómo instalarlo localmente
+
+1. Clona el repositorio:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+git clone https://github.com/borizSam/portafolio-devops.git
+cd portafolio-devops
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
