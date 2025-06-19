@@ -1,4 +1,4 @@
-# Portafolio DevOps - Boris Huarachi
+# Portafolio DevOps
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/borizSam/portafolio-devops)
 ![GitHub stars](https://img.shields.io/github/stars/borizSam/portafolio-devops?style=social)
